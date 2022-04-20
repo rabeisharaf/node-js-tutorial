@@ -1,0 +1,5 @@
+hiiiiiiiiiiiiiiiiiiiihiiiiiiiiiiiiiiiiiiiihiiiiiiiiiiiiiiiiiiii
+hiiiiiiiiiiiiiiiiiiii
+hiiiiiiiiiiiiiiiiiiii
+
+module.exports.n1 = 'rabei'
